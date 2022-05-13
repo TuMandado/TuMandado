@@ -1,6 +1,6 @@
 ### Hello there. 🤝
 
-🙋Hi there! My name is Euclides Ignacio.
+My name is Euclides Ignacio.
 
 
 💻I'm a full-stack software developer with a passion for creating innovative solutions to complex problems.
@@ -123,13 +123,10 @@ Want to contact with me? </br>
 Email: nachoeuclides@outlook.com </br>
 Linkedin: https://www.linkedin.com/in/euclidesingenieria/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuMandado&show_icons=true&theme=radical&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuMandado&show_icons=true&theme=dark)
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frsel99&theme=radical&langs_count=15&layout=compact&hide_border=true)
 
-<!--
-**Frsel99/Frsel99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -139,5 +136,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
