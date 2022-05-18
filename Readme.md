@@ -114,6 +114,12 @@ I am currently looking for a technology company in which I can apply my new know
                 <img src="./mongodb.png" width="40"/>
             </a>
             <br>MongoDB
+        <td align="center" width="96">
+            <a>
+                <img src="./pngegg.png" width="40"/>
+            </a>
+            <br>Firebase
+        </td>
 
 </table>
 
