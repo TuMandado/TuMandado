@@ -39,6 +39,13 @@ I am currently looking for a technology company in which I can apply my new know
       </a>
       <br>Python
     </td>
+    <!-- Add graphql -->
+    <td align="center" width="96">
+      <a>
+        <img src="./graphql.png" width="40"/>
+      </a>
+      <br>GraphQL
+    </td>
   </tr>
 </table>
 
